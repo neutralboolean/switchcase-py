@@ -1,4 +1,4 @@
-def switchcase(switch, experiment):
+def switchcase(switch, experiment=0):
     fallthru = False
     #output = 'Test {0}'.format(experiment)
     #print(output)
